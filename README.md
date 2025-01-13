@@ -4,10 +4,10 @@ This repository contains the implementation of various system-level features and
 
 **Tech Used**
 
-xv6 Operating System (kernel modification)
-C Programming Language
-Linux Tools: strace, bcc
-System-level Debugging and Tracing
+xv6 Operating System (kernel modification)  
+C Programming Language  
+Linux Tools: strace, bcc  
+System-level Debugging and Tracing  
 
 **Key Features**
 
