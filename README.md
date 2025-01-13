@@ -11,7 +11,7 @@ System-level Debugging and Tracing
 
 **Key Features**
 
-**Custom System Calls:** Implemented a trace system call for process-specific system call logging and monitoring.
-**User-Space Programs:** Developed utilities such as hello world, head, and find to interact with the xv6 file system and demonstrate basic OS functionalities.
-**Interrupt and System Call Management:** Enhanced the kernel to manage interrupts and system calls using the Interrupt Descriptor Table (IDT), APICs, and process control blocks (PCB).
+**Custom System Calls:** Implemented a trace system call for process-specific system call logging and monitoring.  
+**User-Space Programs:** Developed utilities such as hello world, head, and find to interact with the xv6 file system and demonstrate basic OS functionalities.  
+**Interrupt and System Call Management:** Enhanced the kernel to manage interrupts and system calls using the Interrupt Descriptor Table (IDT), APICs, and process control blocks (PCB).  
 **System Call Tracing:** Used Linux tools like strace and bcc for advanced system call tracing and debugging.
